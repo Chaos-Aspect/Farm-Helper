@@ -1,0 +1,7 @@
+# fly.toml app configuration file generated for idle-farm-tool on 2023-07-24T23:18:40-06:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "idle-farm-tool"
+primary_region = "mia"
